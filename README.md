@@ -19,7 +19,7 @@ Hello! This is a Python-based **AI Virtual Assistant** that can perform tasks li
 ---
 
 ## **Screenshots**
-![Main Screen](screenshots/main.png)  
+![Main Screen](screenshots/main_screen.png)  
 ![Playing Music](screenshots/video.png)  
 ![Weather Report](screenshots/weather.png)  
 
@@ -31,5 +31,6 @@ Hello! This is a Python-based **AI Virtual Assistant** that can perform tasks li
 1. Clone the repository:
    ```bash
    git clone https://github.com/<USERNAME>/<REPO>.git
+
 
 
